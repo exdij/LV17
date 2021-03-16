@@ -1,0 +1,536 @@
+2018.11.20-13.41
+12345
+2018.11.20-13.41
+12345
+2018.11.20-13.41
+12345
+2018.11.20-13.41
+12345
+2018.11.20T13:43
+12345
+2018.11.20T13:43
+12345
+2018.11.20T13:43
+12345
+2018.11.20T13:43
+12345
+2018.11.20T13:43
+12345
+2018.11.20T13:43
+12345
+2018.11.20T13:43
+12345
+2018.11.20T13:43
+12345
+2018.11.20T13:43
+12345
+2018.11.21T14:29
+
+2018.11.21T14:29
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T14:35
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T14:35
+
+2018.11.21T14:40
+
+2018.11.21T14:40
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+Press any key to continue . . . 
+
+2018.11.21T14:40
+
+2018.11.21T14:40
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T14:41
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T14:41
+
+2018.11.21T14:43
+
+2018.11.21T14:43
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T14:44
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T14:44
+
+2018.11.21T14:47
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T14:47
+
+2018.11.21T14:53
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T14:53
+
+2018.11.21T14:55
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T14:55
+
+2018.11.21T14:56
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T14:56
+
+2018.11.21T14:58
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T14:58
+
+2018.11.21T15:29
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T15:29
+
+2018.11.21T15:31
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T15:31
+
+2018.11.21T15:31
+
+2018.11.21T15:31
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T15:32
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.21T15:32
+
+2018.11.21T15:50
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+Press any key to continue . . . 
+
+2018.11.21T15:50
+
+2018.11.21T15:56
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T15:56
+device(s) restarted.
+
+2018.11.21T15:56
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T15:56
+device(s) restarted.
+
+2018.11.21T15:58
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T15:58
+device(s) restarted.
+
+2018.11.21T15:59
+device(s) restarted.
+
+2018.11.21T15:59
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:00
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:00
+device(s) restarted.
+
+2018.11.21T16:01
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:01
+device(s) restarted.
+
+2018.11.21T16:01
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:01
+device(s) restarted.
+
+2018.11.21T16:02
+device(s) restarted.
+
+2018.11.21T16:02
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:03
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:03
+device(s) restarted.
+
+2018.11.21T16:03
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:03
+device(s) restarted.
+
+2018.11.21T16:03
+device(s) restarted.
+
+2018.11.21T16:03
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:08
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:08
+device(s) restarted.
+
+2018.11.21T16:08
+device(s) restarted.
+
+2018.11.21T16:08
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:09
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:09
+device(s) restarted.
+
+2018.11.21T16:10
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:10
+device(s) restarted.
+
+2018.11.21T16:12
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:12
+device(s) restarted.
+
+2018.11.21T16:13
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:13
+device(s) restarted.
+
+2018.11.21T16:13
+device(s) restarted.
+
+2018.11.21T16:13
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:14
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:14
+device(s) restarted.
+
+2018.11.21T16:14
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:14
+device(s) restarted.
+
+2018.11.21T16:15
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:15
+device(s) restarted.
+
+2018.11.21T16:17
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:17
+device(s) restarted.
+
+2018.11.21T16:17
+device(s) restarted.
+
+2018.11.21T16:17
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:18
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:18
+device(s) restarted.
+
+2018.11.21T16:19
+device(s) restarted.
+
+2018.11.21T16:19
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:20
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:20
+device(s) restarted.
+
+2018.11.21T16:21
+device(s) restarted.
+
+2018.11.21T16:21
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:26
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:26
+device(s) restarted.
+
+2018.11.21T16:26
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:26
+device(s) restarted.
+
+2018.11.21T16:26
+device(s) restarted.
+
+2018.11.21T16:26
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:27
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:27
+device(s) restarted.
+
+2018.11.21T16:34
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.21T16:34
+device(s) restarted.
+
+2018.11.27T15:09
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.27T15:09
+
+2018.11.27T15:10
+
+2018.11.27T15:10
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.27T15:12
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.27T15:12
+device(s) restarted.
+
+2018.11.27T15:12
+device(s) restarted.
+
+2018.11.27T15:12
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.11.27T16:52
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.27T16:52
+
+2018.11.27T16:53
+
+2018.11.27T16:53
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.11.27T18:08
+USB\VID_0483&PID_5740\00000000001A                          : Requires reboot
+The 1 device(s) are ready to be restarted. To restart the devices, reboot the system.
+
+2018.11.27T18:08
+
+2018.11.27T19:28
+device(s) restarted.
+
+2018.11.27T19:28
+USB\VID_0483&PID_5740\00000000001A                          : Restarted
+1 device(s) restarted.
+
+2018.12.06T14:02
+No matching devices found.
+
+2018.12.06T14:02
+
+2018.12.07T13:02
+USB\VID_0483&PID_5740\00000000001A                          : Restart failed
+No matching devices found.
+
+2018.12.07T13:02
+
+2018.12.07T14:52
+
+2018.12.07T14:52
+No matching devices found.
+
+2018.12.07T14:52
+
+2018.12.07T14:52
+No matching devices found.
+
+2018.12.07T15:25
+No matching devices found.
+
+2018.12.07T15:25
+
+2019.04.01T21:30
+No matching devices found.
+
+2019.04.01T21:30
+
+2019.04.01T21:31
+No matching devices found.
+
+2019.04.01T21:31
+
+2019.04.01T22:06
+
+2019.04.01T22:06
+No matching devices found.
+
+2019.04.01T22:11
+No matching devices found.
+
+2019.04.01T22:11
+
+2019.04.02T00:55
+No matching devices found.
+
+2019.04.02T00:55
+
+2019.04.02T01:23
+No matching devices found.
+
+2019.04.02T01:23
+
+2019.04.02T01:23
+No matching devices found.
+
+2019.04.02T01:23
+
+2019.04.02T01:27
+No matching devices found.
+
+2019.04.02T01:27
+
+2019.04.02T01:28
+No matching devices found.
+
+2019.04.02T01:28
+
+2019.04.02T01:28
+No matching devices found.
+
+2019.04.02T01:28
+
+2019.04.02T01:28
+No matching devices found.
+
+2019.04.02T01:28
+
+2019.04.02T01:30
+
+2019.04.02T01:30
+No matching devices found.
+
+2019.04.02T01:30
+
+2019.04.02T01:30
+No matching devices found.
+
+2019.04.02T01:30
+No matching devices found.
+
+2019.04.02T01:30
+
+2019.04.02T01:33
+No matching devices found.
+
+2019.04.02T01:33
+
+2019.04.02T01:33
+No matching devices found.
+
+2019.04.02T01:33
+
+2019.04.02T01:33
+No matching devices found.
+
+2019.04.02T01:33
+
+2019.04.02T01:54
+No matching devices found.
+
+2019.04.02T01:54
+
+2019.04.02T01:54
+No matching devices found.
+
+2019.04.02T01:54
+
+2019.04.02T01:54
+
+2019.04.02T01:54
+No matching devices found.
+
+2019.08.18T13:12
+No matching devices found.
+
+2019.08.18T13:12
+

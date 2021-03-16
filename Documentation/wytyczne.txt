@@ -1,0 +1,23 @@
+Aplikacja ma logowaæ temperatury, oraz zu¿ycie liczników oleju.
+
+Potrzebne funkcjonalnoœci konfiguracyjne od strony sprzêtowej:
+- konfiguracja wszystkich czujników temperatury (adresy),
+- konfiguracja wszystkich liczników oleju (nie wszystkie liczniki bêd¹ nowe, wiêc trzeba bêdzie podaæ stan z momentu monta¿u i liczbê impulsów/litr),
+- proszê skonsultowaæ siê z koleg¹ te¿ na wypadek konfiguracji po przeniesieniu modu³ów master-slave.	
+
+ 
+
+Proponujê odpytywanie co 15 minut (najlepiej konfigurowalnie).
+Wszystkie bie¿¹ce parametry chcielibyœmy mieæ wylistowane. Mo¿e byæ na osobnych ekranach paliwo i temperatury (w zak³adkach) w taki sposób, ¿eby automatycznie nastêpowa³o prze³¹czanie co minutê.
+
+Ka¿dy kana³ temperaturowy powinien mieæ zdefiniowany wartoœci ostrzegawcze i alarmowe. Powiedzmy, ¿e gdy temperatura na agregacie przekroczy 55 stopni Celsjusza (konfigurowalne) to zapala siê ¿ó³ta kontrolka. Gdy wartoœæ ta przekroczy 60 stopni to czerwona.
+Kana³y olejowe fajnie by by³o identyfikowaæ jako aktywne i nieaktywne (niektórych liczników nie u¿ywamy i mog¹ siê one wyszarzaæ).
+
+Ze zu¿ycia oleju i temperatur w osobnych zak³adkach powinny siê liczyæ:
+- œrednia temperatura z ostatnich 1, 4, 8, 16 i 24 godzin.
+- œrednie zu¿ycie oleju [l/min] z okresów jak wy¿ej.
+
+ 
+
+Wartoœci chwilowe i wyliczone œrednie proszê wpisaæ w zmienne globalne, gdy¿ zak³adam, ¿e na tym siê nie skoñczy nasza analiza danych i bêdziemy po nie siêgaæ 
+Wartoœci œrednie, godzinne proszê logowaæ do pliku. Co jedn¹ dobê proszê tworzyæ nowy plik z danymi.
